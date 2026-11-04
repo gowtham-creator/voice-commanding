@@ -15,6 +15,6 @@
 <rect width="1280" height="320" fill="url(#glow)"/>
 <rect x="0" y="0" width="7" height="320" fill="#6B7280"/>
 <text x="64" y="118" font-family="ui-sans-serif,-apple-system,Segoe UI,Inter,Helvetica,Arial,sans-serif" font-size="72" font-weight="700" letter-spacing="-1.4" fill="#ffffff">Voice Commanding</text>
-<text x="66" y="158" font-family="ui-sans-serif,-apple-system,Segoe UI,Inter,Helvetica,Arial,sans-serif" font-size="21" fill="#ffffff" fill-opacity="0.80">Jupyter Notebook</text>
-<g><rect x="66" y="232" rx="13" ry="13" width="64" height="26" fill="#ffffff" fill-opacity="0.22" stroke="#ffffff" stroke-opacity="0.55"/><text x="98" y="250" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12.5" fill="#ffffff" fill-opacity="0.92">3</text></g>
+<text x="66" y="158" font-family="ui-sans-serif,-apple-system,Segoe UI,Inter,Helvetica,Arial,sans-serif" font-size="21" fill="#ffffff" fill-opacity="0.80">Notebook experimenting with voice-command recognition.</text>
+<g><rect x="66" y="232" rx="13" ry="13" width="159" height="26" fill="#ffffff" fill-opacity="0.22" stroke="#ffffff" stroke-opacity="0.55"/><text x="146" y="250" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12.5" fill="#ffffff" fill-opacity="0.92">Jupyter Notebook</text></g>
 </svg>
