@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="Voice Commanding">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#111827"/><stop offset="55%" stop-color="#1F2937"/><stop offset="100%" stop-color="#374151"/>
+</linearGradient>
+<radialGradient id="glow" cx="0.82" cy="0.18" r="0.62">
+  <stop offset="0%" stop-color="#6B7280" stop-opacity="0.55"/><stop offset="100%" stop-color="#6B7280" stop-opacity="0"/>
+</radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+  <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.055" stroke-width="1"/>
+</pattern>
+</defs>
+<rect width="1280" height="320" fill="url(#bg)"/>
+<rect width="1280" height="320" fill="url(#grid)"/>
+<rect width="1280" height="320" fill="url(#glow)"/>
+<rect x="0" y="0" width="7" height="320" fill="#6B7280"/>
+<text x="64" y="118" font-family="ui-sans-serif,-apple-system,Segoe UI,Inter,Helvetica,Arial,sans-serif" font-size="72" font-weight="700" letter-spacing="-1.4" fill="#ffffff">Voice Commanding</text>
+<text x="66" y="158" font-family="ui-sans-serif,-apple-system,Segoe UI,Inter,Helvetica,Arial,sans-serif" font-size="21" fill="#ffffff" fill-opacity="0.80">Jupyter Notebook</text>
+<g><rect x="66" y="232" rx="13" ry="13" width="64" height="26" fill="#ffffff" fill-opacity="0.22" stroke="#ffffff" stroke-opacity="0.55"/><text x="98" y="250" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12.5" fill="#ffffff" fill-opacity="0.92">3</text></g>
+</svg>
